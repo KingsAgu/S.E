@@ -39,7 +39,7 @@ export default function Navbar() {
                 alt="Seidar Logo"
                 width={180}
                 height={48}
-                className="h-12 sm:h-14 w-auto drop-shadow-lg"
+                className="h-12 sm:h-14 w-auto drop-shadow-lg mex"
                 style={{ filter: "drop-shadow(0 0 8px rgba(255, 255, 255, 0.3))" }}
               />
             </Link>
